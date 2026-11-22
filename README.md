@@ -13,3 +13,40 @@ public health and biomedical research.
 I enjoy exploring data, developing statistical models,
 conducting research, and translating quantitative
 findings into meaningful insights.
+
+---
+
+### 🔬 Research Interests
+
+- Biostatistics
+- Epidemiology
+- Statistical Modelling
+- Machine Learning
+- Applied Statistics
+- Public Health Research
+- Data Science
+
+  ---
+
+### 🛠️ Technical Skills
+
+**Programming:** R, Python, SQL
+
+**Statistical Analysis:** Regression Analysis, 
+Hypothesis Testing, ANOVA, Statistical Inference
+
+**Data Analysis:** Excel, SPSS
+
+**Data Visualization:** ggplot2, Power BI
+
+**Other Tools:** Git, GitHub, LaTeX
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| Salmonella Outbreak Investigation | Statistical investigation using logistic regression. |
+| Malaria Research | Investigating determinants of malaria infection among under-five children in Nigeria. |
+| Data Analysis Projects | Exploring datasets through statistical analysis and visualization. |
