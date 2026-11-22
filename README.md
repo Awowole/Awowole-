@@ -50,3 +50,28 @@ Hypothesis Testing, ANOVA, Statistical Inference
 | Salmonella Outbreak Investigation | Statistical investigation using logistic regression. |
 | Malaria Research | Investigating determinants of malaria infection among under-five children in Nigeria. |
 | Data Analysis Projects | Exploring datasets through statistical analysis and visualization. |
+
+---
+
+### 💻 Languages and Tools
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awowole&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awowole&layout=compact&theme=default)
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](uthman-awowole)
